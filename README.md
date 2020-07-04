@@ -333,7 +333,7 @@ mutation($input: AddOrderInput!) {
 
 ### 💡 Removing items from a list via Mutation
 
-So, far we have added new orders to our existing list of orders via the `addOrder` mutation. Similarly, we can also remove orders from our list via a `removeOrder` mutation. Below is an example of such a mutation.
+So far we have added new orders to our existing list of orders via the `addOrder` mutation. Similarly, we can also remove orders from our list via a `removeOrder` mutation. Below is an example of such a mutation.
 
 Only the relevent pieces of code are shown below:
 
@@ -398,8 +398,8 @@ const resolvers = {
 }
 ```
 
-#### 👏 💥 🥁 🎉 🎊 🥳 Congratulations !! you made it through the end and that's a wrap of our quick reference guide on how to use Apollo Server for your GraphQL needs !!
+#### 👏 💥 🥁 🎉 🎊 🥳 Congratulations !! you made it through the end and that's a wrap on our quick reference guide on how to use Apollo Server for your GraphQL needs !!
 
-#### 🏆 These notes are inspired by the amazing egghead tutorials on these topics by [Eve Porcello](https://egghead.io/instructors/eve-porcello) and [Alex Banks](https://egghead.io/instructors/alex-banks). They are a great resource for anyone starting with GraphQL and Apollo Server. Be sure to check them out on egghead.io
+#### 🏆 These notes are inspired by the amazing egghead tutorials on these topics by [Eve Porcello](https://egghead.io/instructors/eve-porcello) and [Alex Banks](https://egghead.io/instructors/alex-banks). They are a great resource for anyone starting with GraphQL and Apollo Server. Be sure to check them out on [egghead.io](https://egghead.io)
 
 #### 🔥 If you like, you can also check out the sample [react-apollo app](https://github.com/jvikraman/react-apollo-graphql) that demonstrates the concepts discussed in this guide.
